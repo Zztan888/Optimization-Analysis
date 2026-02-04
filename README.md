@@ -55,4 +55,4 @@ The findings are documented in detail within the [Assignment Report](./Report_As
 1. Ensure you have Python installed.
 2. Install necessary libraries:
    ```bash
-   pip install numpy matplotlib
+   eg: pip install numpy matplotlib
