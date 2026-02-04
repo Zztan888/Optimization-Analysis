@@ -14,7 +14,7 @@ This repository contains the implementation and analysis of optimization algorit
 
 ## 📂 Quick Links
 * 📜 **Source Code:** [Optimization.py](./Optimization.py)
-* 📄 **Technical Report:** [Report_Assignment3.pdf](./Report_Assignment3.pdf)
+* 📄 **Technical Report:** [Report_Assignment3.pdf](./Report_Assignment3-git.pdf)
 
 ---
 
