@@ -37,7 +37,7 @@ The script `Optimization.py` performs the following steps:
 3. **Iterative Update:** Applying the optimization rule to move toward the optimum.
    - For Gradient Descent, the update rule is: 
      $$x_{new} = x_{old} - \alpha \cdot \nabla f(x_{old})$$
-     *(where $\alpha$ is the learning rate)*.
+     *(where alpha is the learning rate)*.
 4. **Result Logging:** Tracking the "Fitness" or "Loss" over time.
 
 
